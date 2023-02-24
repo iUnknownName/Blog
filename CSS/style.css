@@ -1,0 +1,41 @@
+.body{
+    margin:0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Header{
+    text-align: center;
+     margin: 15px 0 15px 0;
+     background-color: black;
+}
+
+#Logo{
+    width: 15%;
+    height: 15%;
+    float: right;
+}
+
+.Links{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.Home h2 ,  p{
+    text-align: center;
+}
+
+.Home img{
+    border-radius: 10px;
+    margin: auto;
+}
+
+.Background-Footer{
+    background-color: black ;
+    text-align: center;
+}
+
+.Background-Footer p , ul{
+    color: white;
+}
+
+
