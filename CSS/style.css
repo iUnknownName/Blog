@@ -5,13 +5,13 @@
 
 #Header{
     text-align: center;
-     margin: 15px 0 15px 0;
+     margin: 20px 0 20px 0;
      background-color: black;
 }
 
 #Logo{
-    width: 15%;
-    height: 15%;
+    width: 3%;
+    height: 3%;
     float: right;
 }
 
@@ -20,13 +20,43 @@
     margin-bottom: 15px;
 }
 
-.Home h2 ,  p{
+nav{
+    background-color: black ;
+    list-style: none;
+}
+
+.Links a {
+    display: inline-block;
+    text-align: center;
+    color: white;
+}
+
+.Home h2 ,  p , a{
     text-align: center;
 }
 
 .Home img{
     border-radius: 10px;
-    margin: auto;
+    margin: 50px 350px 50px 350px;
+}
+
+.Gods h2 , ol{
+    text-align: center;
+    font-weight: bold;
+    list-style: none;
+}
+
+.Gods img{
+    border-radius: 10px;
+    margin: 15px 120px 15px 120px;
+}
+
+.Origins h3 , p , a{
+    text-align: center;
+}
+
+.Video{
+    margin: 40px 250px 40px 250px;
 }
 
 .Background-Footer{
@@ -35,6 +65,7 @@
 }
 
 .Background-Footer p , ul{
+    margin: 0 10px  0 10px;
     color: white;
 }
 
